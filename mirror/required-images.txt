@@ -12,6 +12,7 @@
 #amazon/aws-node-termination-handler:v1.3.1
 # 此行以及以上内容请勿删除。新images在此行下添加。提交新的images时，请删除旧的images
 
-kubernetesui/metrics-scraper:v1.0.6
-kubernetesui/dashboard:v2.3.1
-
+# AWS EBS CSI Driver
+amazon/aws-ebs-csi-driver:v1.5.0
+# AWS EFS CSI Driver
+amazon/aws-efs-csi-driver:v1.3.5
